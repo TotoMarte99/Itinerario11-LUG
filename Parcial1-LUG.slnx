@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BiciGestion.BLL/BLL.csproj" />
+  <Project Path="BiciGestion.DAL/DAL.csproj" />
+  <Project Path="BiciGestion.Entity/Entity.csproj" />
+  <Project Path="Mapper/Mapper.csproj" />
+  <Project Path="Parcial1-LUG/Parcial1-LUG.csproj" />
+</Solution>
